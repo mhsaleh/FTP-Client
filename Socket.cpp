@@ -1,3 +1,5 @@
+//@author Munehiro Fukuda
+
 #include "Socket.h"
 
 Socket::Socket( int port )

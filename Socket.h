@@ -1,3 +1,5 @@
+//@author Munehiro Fukuda
+
 #include <iostream>      // cerr
 
 using namespace std;
